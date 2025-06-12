@@ -55,7 +55,7 @@ Desenvolver um MVP funcional de um sistema de reconhecimento facial com interfac
 
 ## 👤 Autores
 
-- [Henrique Araujos Felix de Lima]
-- [Juliana Soares de Miranda]
-- [Rebecca Campos Machado]
+- Henrique Araujos Felix de Lima
+- Juliana Soares de Miranda
+- Rebecca Campos Machado
 - Projeto desenvolvido como parte de estudo/prática com redes neurais e aplicações de visão computacional
