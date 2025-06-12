@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sistema de Reconhecimento Facial com PyTorch, FaceNet e Streamlit
 
 Este projeto é um sistema completo de reconhecimento facial baseado em redes neurais convolucionais, utilizando a biblioteca `facenet-pytorch` e uma interface interativa via `Streamlit`. Permite o **cadastro incremental de usuários** e o **reconhecimento facial em tempo real** ou via upload de imagens.
