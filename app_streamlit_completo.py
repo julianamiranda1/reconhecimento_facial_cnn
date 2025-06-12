@@ -79,7 +79,7 @@ def recognize_faces(img_pil, embeddings, labels, threshold=0.6):
 def draw_boxes(img, results):
     draw = ImageDraw.Draw(img)
     try:
-        font = ImageFont.truetype("arial.ttf", size=30)
+        font = ImageFont.truetype("arial.ttf", size=50)
     except:
         font = ImageFont.load_default()
     for name, sim, box in results:
